@@ -7,3 +7,8 @@
 # git push- bernum e
 # git add -A  bolor fayler miasin bernum
 # git pull  nerbernel fayl
+
+import random,math
+x = random.randint(1,100)
+print(x)
+print(math.sqrt(x))
