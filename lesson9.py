@@ -61,3 +61,8 @@ for i in name:
 		continue
 	print(i)
 
+git status
+git add 'faili anun'
+git commit -m ''
+git push
+
